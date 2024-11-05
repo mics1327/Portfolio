@@ -1,0 +1,1 @@
+export {default as GradPic} from './GradPic.JPG';
